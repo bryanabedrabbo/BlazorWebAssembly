@@ -1,2 +1,2 @@
 # BlazorWebAssembly
- Intro to ASP.NET Core Blazor WebAssembly
+ASP.NET Core Blazor WebAssembly
